@@ -10,5 +10,5 @@ return (<div className="paginate">
         <h4 className="paginate__arrow__L" onClick={() => setPage(page + 1)}>→</h4>}
     </div>);
 }
- 
+  
 export default Paginate;
